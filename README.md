@@ -21,5 +21,3 @@ Enabled real-time recommendations for users based on input preferences.
 Interactive search and recommendation system.
 Efficient preprocessing for clean and meaningful data representation.
 
-
-Dataset Links:https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
